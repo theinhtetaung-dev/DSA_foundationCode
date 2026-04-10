@@ -10,3 +10,8 @@ void push(Stack* s, int value)
 {
         s->items[++(s->top)] = value;
 }
+
+int pop(Stack* s)
+{
+        return s->items[(s->top)--];
+}
