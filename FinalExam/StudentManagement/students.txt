@@ -1,0 +1,20 @@
+2|Aung Ko|21|3.10
+10|Aye Aye|20|3.15
+16|Bo Bo|23|2.75
+17|Cho Cho|19|3.55
+18|Han Han|20|3.35
+8|Hla Hla|23|3.00
+19|Khin Khin|22|3.40
+6|Kyaw Kyaw|20|3.20
+5|Mg Mg|22|2.90
+9|Min Thu|21|3.45
+13|Mya Mya|21|3.25
+15|Nu Nu|18|3.90
+11|Phyu Phyu|19|3.70
+4|Su Su|18|3.80
+1|Thein Htet Aung|19|3.30
+3|Thiri Linn|19|3.40
+14|Tun Tun|20|3.05
+20|Win Win|21|3.20
+12|Zaw Zaw|22|2.80
+7|Zin Mar|19|3.60

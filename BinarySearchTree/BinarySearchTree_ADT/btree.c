@@ -56,7 +56,6 @@ int nodeHeight(struct node* root, int val) {
         return -1;
     if (root->data == val)
         return findHeight(root);
-    
     if (val < root->data)
         return nodeHeight(root->left, val);
     else
