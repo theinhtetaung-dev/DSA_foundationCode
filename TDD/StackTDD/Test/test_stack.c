@@ -21,6 +21,17 @@ void test_push()
         printf("test_push passed\n");
 }
 
+int test_pop()
+{
+        init(&s);
+        push(&s, 10);
+        push(&s, 20);
+        int value = pop(&s);
+        assert(value == 20);
+        assert(s.top == 0);
+        printf("test_pop passed\n");
+}
+
 int main()
 {
         test_init();
